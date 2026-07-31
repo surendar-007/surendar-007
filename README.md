@@ -13,11 +13,11 @@
 - Python
 - C
 
-## 🏆 HackerRank
+## 🚀 Featured Repository
 
-- 👨‍💻 Profile: https://www.hackerrank.com/surendar_05
-- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificates/b283b2f764fb
-- ⭐ Python Badge: 3★ Silver
+### 💻 Coding Practice
+
+➡️Repository:https://github.com/surendar-007/coding-practice
 
 ## 📫 Connect with Me
 
