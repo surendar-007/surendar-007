@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Surendar
 
-<!--
-**surendar-007/surendar-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Second-year B.Tech Information Technology student
+- 💻 Interested in Java, Python, SQL, and Data Structures & Algorithms
+- 🌱 Currently learning Java
+- 🚀 Passionate about problem solving and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- Python
+- C
+
+## 🏆 HackerRank
+
+- 👨‍💻 Profile: https://www.hackerrank.com/surendar_05
+- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificates/b283b2f764fb
+- ⭐ Python Badge: 3★ Silver
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/surendar-007
+- Linkedin :
+https://www.linkedin.com/in/surendar-s
