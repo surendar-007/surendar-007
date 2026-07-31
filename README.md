@@ -21,7 +21,7 @@
 
 ## 🌐 My Profiles
 
-- 🧑‍💻**HackerRank:https://www.hackerrank.com/surendar_05
+- 🧑‍💻**HackerRank:**https://www.hackerrank.com/surendar_05
 
 ## 📫 Connect with Me
 
