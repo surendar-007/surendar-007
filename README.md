@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Repository
 
-### 💻 Coding Practice
+-### 💻 Coding Practice
 
 ➡️Repository:https://github.com/surendar-007/coding-practice
 
