@@ -7,11 +7,15 @@
 - 🌱 Currently learning Java
 - 🚀 Passionate about problem solving and software development
 
+---
+
 ## 🛠️ Skills
 
 - Java
 - Python
 - C
+
+---
 
 ## 🚀 Featured Repository
 
@@ -19,10 +23,14 @@
 
 ➡️Repository:https://github.com/surendar-007/coding-practice
 
+---
+
 ## 🌐 My Profiles
 
 - 🧑‍💻HackerRank:
 https://www.hackerrank.com/surendar_05
+
+---
 
 ## 📫 Connect with Me
 
